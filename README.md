@@ -31,6 +31,10 @@ Esta app simula el funcionamiento de una plataforma de pedidos para restaurantes
 - **Internacionalización (i18n)**
 
 ---
+##CREDITOS##
+Este proyecto fue desarrollado como parte del curso Ionic 8 – Udemy Academy.
+El curso se ha desarrollado en el entorno de Angular 16 y Ionic 6, utilizando Typescript y Capacitor.
+El proyecto se ha desarrollado con la finalidad de aprender y practicar los conceptos de Ionic 8 y Typescript
 
 ## ⚙️ Instrucciones de instalación y ejecución
 
@@ -70,8 +74,3 @@ npm run test:e2e
 # reporte de cobertura
 npm run test:cov
 
-
-##CREDITOS##
-Este proyecto fue desarrollado como parte del curso Ionic 8 – Udemy Academy.
-El curso se ha desarrollado en el entorno de Angular 16 y Ionic 6, utilizando Typescript y Capacitor.
-El proyecto se ha desarrollado con la finalidad de aprender y practicar los conceptos de Ionic 8 y Typescript
